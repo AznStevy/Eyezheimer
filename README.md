@@ -1,6 +1,6 @@
 # Eyezheimers
 
-This is a fork off the original Eyezheimers idea written by a team of 3 at HackDuke, based off of research by [Mahmoudian et al.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3129106/): me, [yanbofang](https://github.com/yanbofang), and [mtran97](https://github.com/mtran97).
+This is a fork off the original Eyezheimers idea based off of research by [Mahmoudian et al.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3129106/) and written by a team of 3 at HackDuke: me, [yanbofang](https://github.com/yanbofang), and [mtran97](https://github.com/mtran97).
 
 The project was based on the above research which basically stated that when eyedrops containing 0.005% diluted tropicamide solution were applied to people without Alzheimers, the size of their pupil stayed approximately the same. However, when those with Alzheimers had the drops applied, after approximately 40 minutes, their pupils dialated from a normal 100% to about 120% as opposed to very slight dialation in those without the disease.
 
