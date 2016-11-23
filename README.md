@@ -1,4 +1,4 @@
-# Eyezheimers
+# Eyezheimer
 
 This is a fork off the original Eyezheimers idea based off of research by [Mahmoudian et al.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3129106/) and written by a team of 3 at HackDuke: me, [yanbofang](https://github.com/yanbofang), and [mtran97](https://github.com/mtran97).
 
